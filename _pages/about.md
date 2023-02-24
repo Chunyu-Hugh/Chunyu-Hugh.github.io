@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My name is Chunyu Hu. Now I am a Ph.D. student at Old Dominion Unviersity advisor by [Prof. Rui Ning](https://www.lions.odu.edu/~rning/). I receviced my Bachelor's and master's degree from Harbin University of Science and Technology in 2017 and 2021. 
-<!-- My research insterests include security and privacy in AI and deep. I have published some papers with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research insterests include security and privacy in AI and deep. 
+<!-- I have published some papers with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 <!-- # 🔥 News
