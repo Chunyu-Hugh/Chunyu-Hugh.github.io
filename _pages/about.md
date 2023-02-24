@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Chunyu Hu. Now I am a PhD student at Old Dominion Unviersity advisor by [Prof. Rui Ning](https://www.lions.odu.edu/~rning/). I receviced my Bachelor's and master's degree from Harbin University of Science and Technology in 2017 and 2021. 
-My research insterests include security and privacy in AI and deep. I have published some papers with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Chunyu Hu. Now I am a Ph.D. student at Old Dominion Unviersity advisor by [Prof. Rui Ning](https://www.lions.odu.edu/~rning/). I receviced my Bachelor's and master's degree from Harbin University of Science and Technology in 2017 and 2021. 
+<!-- My research insterests include security and privacy in AI and deep. I have published some papers with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 <!-- # 🔥 News
@@ -46,8 +46,9 @@ My research insterests include security and privacy in AI and deep. I have publi
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01 - present*, Old Dominion university, 
+- *2018.09 - 2021.12*, Harbin University of Science and Technology.  
+- *2013.09 - 2017.06*, Harbin University of Science and Technology.  
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
