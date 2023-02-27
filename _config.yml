@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunyu Hu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : "Love me, kill me."
   location         : "Norfolk, VA, USA"
   employer         :
   pubmed           : 
@@ -40,7 +40,7 @@ author:
   github           : "Chunyu-Hugh" # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        : "hugh_cyh/"
+  instagram        : "hugh_cyh"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chunyu-hu-249970a7" # e.g., "linkedin username"
