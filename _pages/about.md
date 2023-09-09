@@ -57,7 +57,7 @@ My research insterests include security and privacy in AI and deep learning.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-# Work Experience
+# Work
 - *2022.02 - 2022.12*, Artificial Intelligence and Digital Economy Laboratory (Shenzhen), Shenzhen, Guangdong, China.
 - *2021.01 - 2022.05*, Southern University of Science and Technology, Harbin, Heilongjiang, China.  
 - *2018.01 - 2018.09*, Xi'an Baimu Educational Technology Co., Ltd., Xi'an, Shaanxi, China.  
