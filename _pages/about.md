@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My name is Chunyu Hu. Now I am a Ph.D. student at Old Dominion Unviersity advisor by [Prof. Rui Ning](https://www.lions.odu.edu/~rning/). I receviced my Bachelor's and master's degree from Harbin University of Science and Technology in 2017 and 2021. 
-My research insterests include security and privacy in AI and deep. 
+My research insterests include security and privacy in AI and deep learning. 
 <!-- I have published some papers with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -47,9 +47,9 @@ My research insterests include security and privacy in AI and deep.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.01 - present*, Old Dominion university, 
-- *2018.09 - 2021.12*, Harbin University of Science and Technology.  
-- *2013.09 - 2017.06*, Harbin University of Science and Technology.  
+- *2023.01 - present*, Old Dominion university, Norfolk, VA, USA.
+- *2018.09 - 2021.12*, Harbin University of Science and Technology, Harbin, Heilongjiang, China.  
+- *2013.09 - 2017.06*, Harbin University of Science and Technology, Harbin, Heilongjiang, China.  
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,3 +57,7 @@ My research insterests include security and privacy in AI and deep.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# Work Experience
+- *2022.02 - 2022.12*, Artificial Intelligence and Digital Economy Laboratory (Shenzhen), Shenzhen, Guangdong, China.
+- *2021.01 - 2022.05*, Southern University of Science and Technology, Harbin, Heilongjiang, China.  
+- *2018.01 - 2018.09*, Xi'an Baimu Educational Technology Co., Ltd., Xi'an, Shaanxi, China.  

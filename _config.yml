@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Chunyu Hu"
-description              : " "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "This is the scholar website of Chunyu Hu."
+repository               : "Chunyu-Hugh/Chunyu-Hugh.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunyu Hu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Love me, kill me."
+  bio              : "Just one normal PhD student."
   location         : "Norfolk, VA, USA"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F6LakZwAAAAJ"
   email            : "research_chunyu_hu@foxmail.com"
