@@ -32,7 +32,7 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 **Research on AI Security and Privacy**
 
-**Chunyu Hu**, Rui Ning
+**Chunyu Hu**
 
 - Focus on developing secure and privacy-preserving AI systems
 - Investigating adversarial attacks and defense mechanisms in deep learning
@@ -73,7 +73,6 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 - *2023.01 - present*, **Ph.D. in Computer Science**, Old Dominion University, Norfolk, VA, USA
   - Research Focus: AI Security, Privacy, and Deep Learning
-  - Advisor: [Prof. Rui Ning](https://www.lions.odu.edu/~rning/)
   
 - *2018.09 - 2021.12*, **Master of Science**, Harbin University of Science and Technology, Harbin, Heilongjiang, China
   - Thesis: Research on Machine Learning Applications in Security
