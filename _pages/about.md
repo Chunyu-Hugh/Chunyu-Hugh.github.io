@@ -29,37 +29,15 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 ### Conference Papers
 
-**Contrastive Multi-Hop Semantic Communication**
-
-**Yao Wang**, **Chunyu Hu**, Jian Li, Rui Ning, Lusi Li, Daniel Takabi
-
-- **Conference**: IEEE Military Communications Conference (MILCOM)
-- **Year**: 2025
-- **Status**: Accepted (to appear)
-- **Abstract**: This paper presents a novel approach to semantic communication using contrastive learning and multi-hop techniques for military communications.
+1. **Y. Wang**, **C. Hu**, J. Li, R. Ning, L. Li, D. Takabi, "Contrastive Multi-Hop Semantic Communication," *IEEE Military Communications Conference (MILCOM)*, accepted, 2025.
 
 ### Journal Papers
 
-**Airplane Detection in Remote Sensing Images Using CNN**
-
-**Yide Zhang**, Changyu Hu, **Chunyu Hu**
-
-- **Journal**: Optoelectronic Technology
-- **Year**: 2017
-- **Volume**: 37
-- **Pages**: 66-71
-- **Abstract**: This paper explores the application of Convolutional Neural Networks (CNN) for detecting airplanes in remote sensing imagery.
+2. **Y. Zhang**, C. Hu, **C. Hu**, "Airplane Detection in Remote Sensing Images Using CNN," *Optoelectronic Technology*, vol. 37, pp. 66-71, 2017.
 
 ### In Preparation
 
-**Targeted Bit Flip Attack on Binary Neural Networks**
-
-**Chunyu Hu**, Rui Ning
-
-- **Conference**: International Conference on Computing, Networking and Communications (ICNC)
-- **Year**: 2026
-- **Status**: In preparation
-- **Abstract**: This research investigates targeted bit flip attacks on binary neural networks, exploring vulnerabilities and potential defense mechanisms.
+3. **C. Hu**, R. Ning, "Targeted Bit Flip Attack on Binary Neural Networks," *International Conference on Computing, Networking and Communications (ICNC)*, in preparation, 2026.
 
 ### Research Areas
 
