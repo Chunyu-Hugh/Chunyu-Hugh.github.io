@@ -27,18 +27,61 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 ## 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
+### Conference Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MILCOM 2025</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research on AI Security and Privacy**
+**Contrastive Multi-Hop Semantic Communication**
 
-**Chunyu Hu**
+**Yao Wang**, **Chunyu Hu**, Jian Li, Rui Ning, Lusi Li, Daniel Takabi
 
-- Focus on developing secure and privacy-preserving AI systems
-- Investigating adversarial attacks and defense mechanisms in deep learning
-- Exploring federated learning and differential privacy techniques
+- **Conference**: IEEE Military Communications Conference (MILCOM)
+- **Year**: 2025
+- **Status**: Accepted (to appear)
+- **Abstract**: This paper presents a novel approach to semantic communication using contrastive learning and multi-hop techniques for military communications.
 </div>
 </div>
+
+### Journal Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal 2017</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Airplane Detection in Remote Sensing Images Using CNN**
+
+**Yide Zhang**, Changyu Hu, **Chunyu Hu**
+
+- **Journal**: Optoelectronic Technology
+- **Year**: 2017
+- **Volume**: 37
+- **Pages**: 66-71
+- **Abstract**: This paper explores the application of Convolutional Neural Networks (CNN) for detecting airplanes in remote sensing imagery.
+</div>
+</div>
+
+### In Preparation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Prep</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Targeted Bit Flip Attack on Binary Neural Networks**
+
+**Chunyu Hu**, Rui Ning
+
+- **Conference**: International Conference on Computing, Networking and Communications (ICNC)
+- **Year**: 2026
+- **Status**: In preparation
+- **Abstract**: This research investigates targeted bit flip attacks on binary neural networks, exploring vulnerabilities and potential defense mechanisms.
+</div>
+</div>
+
+### Research Areas
+
+- **AI Security**: Adversarial machine learning, robust deep learning, security of AI systems
+- **Privacy-Preserving AI**: Federated learning, differential privacy, secure multi-party computation
+- **Deep Learning**: Neural network architectures, optimization algorithms, interpretable AI
+- **Cybersecurity**: Network security, intrusion detection, threat modeling
 
 <!-- I have published some papers https://scholar.google.com/citations?user=F6LakZwAAAAJ. with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
