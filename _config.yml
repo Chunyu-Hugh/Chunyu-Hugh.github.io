@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunyu Hu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Just one normal PhD student."
+  bio              : "Ph.D. Student in Computer Science at Old Dominion University"
   location         : "Norfolk, VA, USA"
-  employer         : 
+  employer         : "Old Dominion University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F6LakZwAAAAJ"
   email            : "research_chunyu_hu@foxmail.com"
@@ -40,12 +40,12 @@ author:
   github           : "Chunyu-Hugh" # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        : "hugh_cyh"
+  instagram        : ""
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chunyu-hu-249970a7" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
