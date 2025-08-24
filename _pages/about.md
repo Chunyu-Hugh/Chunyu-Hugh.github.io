@@ -29,9 +29,6 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 ### Conference Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MILCOM 2025</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **Contrastive Multi-Hop Semantic Communication**
 
 **Yao Wang**, **Chunyu Hu**, Jian Li, Rui Ning, Lusi Li, Daniel Takabi
@@ -40,13 +37,8 @@ My primary research interests lie at the intersection of **security**, **privacy
 - **Year**: 2025
 - **Status**: Accepted (to appear)
 - **Abstract**: This paper presents a novel approach to semantic communication using contrastive learning and multi-hop techniques for military communications.
-</div>
-</div>
 
 ### Journal Papers
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal 2017</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Airplane Detection in Remote Sensing Images Using CNN**
 
@@ -57,13 +49,8 @@ My primary research interests lie at the intersection of **security**, **privacy
 - **Volume**: 37
 - **Pages**: 66-71
 - **Abstract**: This paper explores the application of Convolutional Neural Networks (CNN) for detecting airplanes in remote sensing imagery.
-</div>
-</div>
 
 ### In Preparation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Prep</div><img src='images/500x300.png' alt="research" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Targeted Bit Flip Attack on Binary Neural Networks**
 
@@ -73,8 +60,6 @@ My primary research interests lie at the intersection of **security**, **privacy
 - **Year**: 2026
 - **Status**: In preparation
 - **Abstract**: This research investigates targeted bit flip attacks on binary neural networks, exploring vulnerabilities and potential defense mechanisms.
-</div>
-</div>
 
 ### Research Areas
 
