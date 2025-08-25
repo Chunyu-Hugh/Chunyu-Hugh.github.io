@@ -96,15 +96,15 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 ## 💼 Work Experience
 
-- *2022.02 - 2022.12*, **Software Developer**, Artificial Intelligence and Digital Economy Laboratory (Shenzhen), Shenzhen, Guangdong, China
+- 💻 *2022.02 - 2022.12*, **Software Developer**, Artificial Intelligence and Digital Economy Laboratory (Shenzhen), Shenzhen, Guangdong, China
   - Developed AI-powered applications and systems
   - Collaborated with research teams on cutting-edge AI projects
   
-- *2021.01 - 2022.05*, **Research Assistant**, Southern University of Science and Technology, Shenzhen, Guangdong, China
+- 🔬 *2021.01 - 2022.05*, **Research Assistant**, Southern University of Science and Technology, Shenzhen, Guangdong, China
   - Conducted research on machine learning and AI applications
   - Assisted in developing secure AI systems
   
-- *2018.01 - 2018.09*, **Physics Teacher**, Xi'an Baimu Educational Technology Co., Ltd., Xi'an, Shaanxi, China
+- 🧑‍🏫 *2018.01 - 2018.09*, **Physics Teacher**, Xi'an Baimu Educational Technology Co., Ltd., Xi'an, Shaanxi, China
   - Taught physics concepts to students
   - Developed educational materials and curriculum
 
