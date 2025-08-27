@@ -29,7 +29,7 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 ### Conference Papers
 
-1. **Y. Wang**, **C. Hu**, J. Li, R. Ning, L. Li, D. Takabi, "Contrastive Multi-Hop Semantic Communication," *IEEE Military Communications Conference (MILCOM)*, accepted, 2025.
+1. **Y. Wang**, **C. Hu**, J. Li, R. Ning, L. Li, D. Takabi, "Contrastive Multi-Hop Semantic Communication," *IEEE Military Communications Conference (MILCOM)*, accepted, pending final submission, 2025.
 
 ### Journal Papers
 
@@ -37,7 +37,7 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 ### In Preparation
 
-3. **C. Hu**, R. Ning, "Targeted Bit Flip Attack on Binary Neural Networks," *International Conference on Computing, Networking and Communications (ICNC)*, in preparation, 2026.
+3. **C. Hu**, R. Ning, "Targeted Bit Flip Attack on Binary Neural Networks," *International Conference on Computing, Networking and Communications (ICNC)*, manuscript ready, 2026.
 
 ### Research Areas
 
