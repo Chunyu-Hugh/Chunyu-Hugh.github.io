@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently pursuing my Ph.D. in Computer Science at Old Dominion University. My academic journey began at Harbin University of Science and Technology, where I earned my Bachelor's degree in 2017, followed by a Master's degree in 2021.
 
-My primary research interests lie at the intersection of **security**, **privacy**, **artificial intelligence**, and **deep learning**. I am dedicated to exploring the challenges and innovative solutions in ensuring that AI technologies are both secure and respectful of user privacy.
+My previous research interests lie at the intersection of **security**, **privacy**, **artificial intelligence**, and **deep learning**. I am dedicated to exploring the challenges and innovative solutions in ensuring that AI technologies are both secure and respectful of user privacy.
 
 <span class='anchor' id='-publications'></span>
 
@@ -90,6 +90,11 @@ My primary research interests lie at the intersection of **security**, **privacy
 <span class='anchor' id='-work-experience'></span>
 
 ## 💼 Work Experience
+
+- 🧑‍🔬 *2023.06 - 2025.08*, **Research Assistant**, T3-cider Project
+  - Led curriculum development and contributed to course design
+  - Responsible for code implementation and technical support
+  - Served as a teaching assistant (TA), assisting with workshops and supporting student learning
 
 - 💻 *2022.02 - 2022.12*, **Software Developer**, Artificial Intelligence and Digital Economy Laboratory (Shenzhen), Shenzhen, Guangdong, China
   - Developed AI-powered applications and systems
