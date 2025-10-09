@@ -35,16 +35,11 @@ My primary research interests lie at the intersection of **security**, **privacy
 
 2. **Y. Zhang**, C. Hu, **C. Hu**, "Airplane Detection in Remote Sensing Images Using CNN," *Optoelectronic Technology*, vol. 37, pp. 66-71, 2017.
 
-### In Preparation
-
-3. **C. Hu**, R. Ning, "Targeted Bit Flip Attack on Binary Neural Networks," *International Conference on Computing, Networking and Communications (ICNC)*, manuscript ready, 2026.
 
 ### Research Areas
 
-- **AI Security**: Adversarial machine learning, robust deep learning, security of AI systems
-- **Privacy-Preserving AI**: Federated learning, differential privacy, secure multi-party computation
-- **Deep Learning**: Neural network architectures, optimization algorithms, interpretable AI
-- **Cybersecurity**: Network security, intrusion detection, threat modeling
+ - **AI for Inverse Problem**: Solving inverse problems using machine learning and deep learning techniques
+ - **AI for Physics**: Applying AI methods to physical modeling, simulation, and scientific discovery
 
 <!-- I have published some papers https://scholar.google.com/citations?user=F6LakZwAAAAJ. with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
