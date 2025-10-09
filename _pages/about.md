@@ -103,7 +103,7 @@ My primary research interests lie at the intersection of **security**, **privacy
   - Taught physics concepts to students
   - Developed educational materials and curriculum
 
-## 🔬 Research Interests
+<!-- ## 🔬 Research Interests
 
 - **AI Security**: Adversarial machine learning, robust deep learning, security of AI systems
 - **Privacy-Preserving AI**: Federated learning, differential privacy, secure multi-party computation
@@ -116,4 +116,4 @@ My primary research interests lie at the intersection of **security**, **privacy
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Keras
 - **Security Tools**: Wireshark, Metasploit, Burp Suite
 - **Development Tools**: Git, Docker, Linux, AWS
-- **Databases**: MySQL, MongoDB, Redis  
+- **Databases**: MySQL, MongoDB, Redis   -->
