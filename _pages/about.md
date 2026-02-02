@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently pursuing my Ph.D. in Computer Science at Old Dominion University. My academic journey began at Harbin University of Science and Technology, where I earned my Bachelor's degree in 2017, followed by a Master's degree in 2021.
 
-My previous research interests lie at the intersection of **security**, **privacy**, **artificial intelligence**, and **deep learning**. I am dedicated to exploring the challenges and innovative solutions in ensuring that AI technologies are both secure and respectful of user privacy.
+My research interests now lie at the intersection of **AI for Science**, particularly in **physics**, and the exploration of **Large Language Models (LLMs)** integrated with **symbolic regression**. Under the guidance of Dr. Yaohang Li, I am dedicated to tackling the challenges and developing innovative solutions that leverage AI to advance scientific discovery and problem-solving in physics and beyond. Previously my research interests lie at the intersection of **security**, **privacy**, **artificial intelligence**, and **deep learning**.
 
 <span class='anchor' id='-publications'></span>
 
@@ -29,18 +29,16 @@ My previous research interests lie at the intersection of **security**, **privac
 
 ### Conference Papers
 
-1. **Y. Wang**, **C. Hu**, J. Li, R. Ning, L. Li, D. Takabi, "Contrastive Multi-Hop Semantic Communication," *IEEE Military Communications Conference (MILCOM)*, accepted, pending final submission, 2025.
+1. **Y. Wang**, **C. Hu**, J. Li, R. Ning, L. Li, D. Takabi, "Contrastive Multi-Hop Semantic Communication," *IEEE Military Communications Conference (MILCOM)*, 2025.
 
 ### Journal Papers
 
 2. **Y. Zhang**, C. Hu, **C. Hu**, "Airplane Detection in Remote Sensing Images Using CNN," *Optoelectronic Technology*, vol. 37, pp. 66-71, 2017.
 
+### Research Areas  
 
-### Research Areas
-
- - **AI for Inverse Problem**: Solving inverse problems using machine learning and deep learning techniques
- - **AI for Physics**: Applying AI methods to physical modeling, simulation, and scientific discovery
-
+  - **AI for Physics**: Applying AI methods to physical modeling, simulation, and scientific discovery in physics  
+  - **LLM + Symbolic Regression**: Exploring the integration of Large Language Models with symbolic regression to advance AI-driven scientific discovery
 <!-- I have published some papers https://scholar.google.com/citations?user=F6LakZwAAAAJ. with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -72,8 +70,8 @@ My previous research interests lie at the intersection of **security**, **privac
 
 ## 📖 Education
 
-- *2023.01 - present*, **Ph.D. in Computer Science**, Old Dominion University, Norfolk, VA, USA
-  - Research Focus: AI Security, Privacy, and Deep Learning
+- *2023.01 - present*, **Ph.D. in Computer Science**, Old Dominion University, Norfolk, VA, USA  
+  - Research Focus: AI for Science in Physics, Large Language Models, and Symbolic Regression
   
 - *2018.09 - 2021.12*, **Master of Science**, Harbin University of Science and Technology, Harbin, Heilongjiang, China
   - Thesis: Research on Machine Learning Applications in Security
