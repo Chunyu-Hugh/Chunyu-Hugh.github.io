@@ -42,7 +42,7 @@ cv:
 
     Experience:
       - company: Old Dominion University
-        position: Research Assistant (Advisor: Dr. Yaohang Li)
+        position: "Research Assistant (Advisor: Dr. Yaohang Li)"
         location: Norfolk, VA, USA
         start_date: 2025-09
         end_date: Present
@@ -52,7 +52,7 @@ cv:
           - "Scientific Discovery Workflows: Support model development, experiment design, and result analysis for data-driven science problems."
 
       - company: Old Dominion University
-        position: Research Assistant (Advisor: Dr. Rui Ning)
+        position: "Research Assistant (Advisor: Dr. Rui Ning)"
         location: Norfolk, VA, USA
         start_date: 2023-01
         end_date: 2025-09
@@ -87,7 +87,7 @@ cv:
 
     Teaching:
       - company: Old Dominion University
-        position: Teaching Assistant, CS 467 / CS 567 (Intro to Reverse Software Engineering)
+        position: "Teaching Assistant, CS 467 / CS 567 (Intro to Reverse Software Engineering)"
         location: Norfolk, VA, USA
         start_date: 2023-07
         end_date: 2024-12
@@ -96,7 +96,7 @@ cv:
           - "Mentorship: Mentored an AI-assisted malware analysis capstone project."
 
       - company: Old Dominion University
-        position: Guest Lecturer, CYSE 635 (AI Security & Privacy)
+        position: "Guest Lecturer, CYSE 635 (AI Security & Privacy)"
         location: Norfolk, VA, USA
         start_date: 2025-09
         end_date: 2025-10
@@ -113,7 +113,7 @@ cv:
           - "Reviewed submitted manuscripts in networking and cybersecurity domains."
 
       - company: Old Dominion University
-        position: Curriculum Co-Designer (CYSE 635 / CS 695)
+        position: "Curriculum Co-Designer (CYSE 635 / CS 695)"
         location: Norfolk, VA, USA
         start_date: 2024-07
         end_date: 2025-05
