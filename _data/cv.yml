@@ -1,0 +1,183 @@
+cv:
+  name: Chunyu Hu
+  label: PhD Student in Computer Science
+  email: chu034@odu.edu
+  location: Norfolk, VA, USA
+  image: ""
+  summary: >
+    PhD student in Computer Science at Old Dominion University, researching AI for Science with a focus on symbolic regression for scientific discovery. Previously worked on adversarial robustness of efficient AI models.
+
+  social_networks:
+    - network: GitHub
+      username: Chunyu-Hugh
+    - network: LinkedIn
+      username: chunyu-hu-249970a7
+
+  sections:
+    Education:
+      - institution: Old Dominion University
+        location: Norfolk, VA, USA
+        url: https://www.odu.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2023-01
+        end_date: Present
+        highlights:
+          - "Research: AI for Science, Symbolic Regression, LLMs"
+          - "Advisor: Dr. Yaohang Li (current), Dr. Rui Ning (previous)"
+
+      - institution: Harbin University of Science and Technology
+        location: Harbin, Heilongjiang, China
+        area: Electrical Engineering
+        studyType: M.Eng.
+        start_date: 2018-09
+        end_date: 2021-12
+
+      - institution: Harbin University of Science and Technology
+        location: Harbin, Heilongjiang, China
+        area: Electrical Engineering and Automation
+        studyType: B.Sc.
+        start_date: 2013-09
+        end_date: 2017-07
+
+    Experience:
+      - company: Old Dominion University
+        position: Research Assistant (Advisor: Dr. Yaohang Li)
+        location: Norfolk, VA, USA
+        start_date: 2025-09
+        end_date: Present
+        summary: ""
+        highlights:
+          - "AI for Science: Conduct research on AI for science, with a focus on symbolic regression for scientific discovery."
+          - "Scientific Discovery Workflows: Support model development, experiment design, and result analysis for data-driven science problems."
+
+      - company: Old Dominion University
+        position: Research Assistant (Advisor: Dr. Rui Ning)
+        location: Norfolk, VA, USA
+        start_date: 2023-01
+        end_date: 2025-09
+        summary: ""
+        highlights:
+          - "Research: Conducted research on adversarial robustness and attack mechanisms in efficient AI models and LLM-related systems."
+          - "Curriculum Development: Developed instructional materials for AI and cybersecurity courses; facilitated lab sessions."
+
+      - company: Artificial Intelligence and Digital Economy Laboratory
+        position: Software Developer
+        location: Shenzhen, China
+        start_date: 2022-04
+        end_date: 2022-11
+        highlights:
+          - "Robotics Software: Designed and implemented controller software for diverse robotics platforms."
+
+      - company: Southern University of Science and Technology
+        position: Research Assistant
+        location: Shenzhen, China
+        start_date: 2021-01
+        end_date: 2022-03
+        highlights:
+          - "Data Analysis: Collected and analyzed disaster event data using network science methods."
+
+      - company: "Xi'an Baimu Educational Technology Co., Ltd."
+        position: Physics Teacher
+        location: "Xi'an, China"
+        start_date: 2018-01
+        end_date: 2018-09
+        highlights:
+          - "Teaching: Taught physics courses and mentored students in problem-solving and exam preparation."
+
+    Teaching:
+      - company: Old Dominion University
+        position: Teaching Assistant, CS 467 / CS 567 (Intro to Reverse Software Engineering)
+        location: Norfolk, VA, USA
+        start_date: 2023-07
+        end_date: 2024-12
+        highlights:
+          - "Lab Instruction: Supported reverse engineering, API hooking, DLL/process injection, and network analysis labs."
+          - "Mentorship: Mentored an AI-assisted malware analysis capstone project."
+
+      - company: Old Dominion University
+        position: Guest Lecturer, CYSE 635 (AI Security & Privacy)
+        location: Norfolk, VA, USA
+        start_date: 2025-09
+        end_date: 2025-10
+        highlights:
+          - "Course Delivery: Taught core cyber-defense concepts and delivered SEED Labs hands-on sessions with real-world malware and exploits."
+
+    Academic Service:
+      - company: International Conference on Networking and Computing (ICNC)
+        position: Reviewer
+        location: International
+        start_date: 2026-01
+        end_date: 2026-12
+        highlights:
+          - "Reviewed submitted manuscripts in networking and cybersecurity domains."
+
+      - company: Old Dominion University
+        position: Curriculum Co-Designer (CYSE 635 / CS 695)
+        location: Norfolk, VA, USA
+        start_date: 2024-07
+        end_date: 2025-05
+        highlights:
+          - "Co-designed graduate course modules on LLM security, including labs and assessments."
+
+      - company: NSF T3-CIDERS, Old Dominion University
+        position: Curriculum Developer
+        location: Norfolk, VA, USA
+        start_date: 2024-05
+        end_date: 2024-08
+        highlights:
+          - "Developed cybersecurity workshop materials for high school teachers."
+
+      - company: Tidewater Science and Engineering Fair (TSEF)
+        position: Computer Science Judge
+        location: Norfolk, VA, USA
+        start_date: 2026-03
+        end_date: 2026-03
+        highlights:
+          - "Evaluated middle and high school computer science projects."
+
+      - company: Virginia State Science & Engineering Fair (VSSEF)
+        position: Software Category Judge
+        location: Norfolk, VA, USA
+        start_date: 2024-04
+        end_date: 2024-04
+        highlights:
+          - "Evaluated student software projects and provided technical feedback."
+
+    Volunteer:
+      - company: mpark (ODU Humanities Makerspace), Old Dominion University
+        position: Graduate Fellow
+        location: Norfolk, VA, USA
+        start_date: 2025
+        end_date: Present
+        summary: "Organize and host interdisciplinary workshops that connect art, humanities, and technology."
+
+      - company: ForKids (Nonprofit Organization)
+        position: Volunteer Tutor
+        location: Norfolk, VA, USA
+        start_date: 2025-09
+        end_date: 2025-12
+        summary: "Provided math tutoring for middle and high school students in programs supporting families experiencing homelessness."
+
+      - company: Wells Theatre / Virginia Stage Company
+        position: Volunteer
+        location: Norfolk, VA, USA
+        start_date: 2024-11
+        end_date: 2024-12
+        summary: "Supported audience reception and event logistics in coordination with theatre operations."
+
+    Skills:
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, C, C++"
+
+      - name: ML Frameworks
+        level: ""
+        icon: fa-solid fa-robot
+        keywords: "PyTorch, TensorFlow, Keras, Transformers"
+
+      - name: Research Areas
+        level: ""
+        icon: fa-solid fa-flask
+        keywords: "AI for Science, Scientific Computing, Cyberinfrastructure Training, HPC-Oriented Research Support"

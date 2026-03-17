@@ -1,122 +1,32 @@
 ---
+layout: about
+title: about
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: >
+  Ph.D. Student in Computer Science at <a href='https://www.odu.edu/'>Old Dominion University</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Norfolk, VA, USA</p>
+    <p>chu034@odu.edu</p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I am currently pursuing my Ph.D. in Computer Science at [Old Dominion University](https://www.odu.edu/). My academic journey began at [Harbin University of Science and Technology](http://www.hrbust.edu.cn/), where I earned my Bachelor's degree in 2017, followed by a Master's degree in 2021.
 
-<span class='anchor' id='about-me'></span>
+My research interests lie at the intersection of **AI for Science**, particularly in **physics**, and the exploration of **Large Language Models (LLMs)** integrated with **symbolic regression**. Under the guidance of [Dr. Yaohang Li](https://www.cs.odu.edu/~yaohang/), I am dedicated to tackling the challenges and developing innovative solutions that leverage AI to advance scientific discovery and problem-solving in physics and beyond.
 
-## About Me
-
-I am currently pursuing my Ph.D. in Computer Science at Old Dominion University. My academic journey began at Harbin University of Science and Technology, where I earned my Bachelor's degree in 2017, followed by a Master's degree in 2021.
-
-My research interests now lie at the intersection of **AI for Science**, particularly in **physics**, and the exploration of **Large Language Models (LLMs)** integrated with **symbolic regression**. Under the guidance of Dr. Yaohang Li, I am dedicated to tackling the challenges and developing innovative solutions that leverage AI to advance scientific discovery and problem-solving in physics and beyond. Previously my research interests lie at the intersection of **security**, **privacy**, **artificial intelligence**, and **deep learning**.
-
-<span class='anchor' id='-publications'></span>
-
-## 📝 Publications 
-
-### Conference Papers
-
-1. **Y. Wang**, **C. Hu**, J. Li, R. Ning, L. Li, D. Takabi, "Contrastive Multi-Hop Semantic Communication," *IEEE Military Communications Conference (MILCOM)*, 2025.
-
-### Journal Papers
-
-2. **Y. Zhang**, C. Hu, **C. Hu**, "Airplane Detection in Remote Sensing Images Using CNN," *Optoelectronic Technology*, vol. 37, pp. 66-71, 2017.
-
-### Research Areas  
-
-  - **AI for Physics**: Applying AI methods to physical modeling, simulation, and scientific discovery in physics  
-  - **LLM + Symbolic Regression**: Exploring the integration of Large Language Models with symbolic regression to advance AI-driven scientific discovery
-<!-- I have published some papers https://scholar.google.com/citations?user=F6LakZwAAAAJ. with <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F6LakZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<span class='anchor' id='-educations'></span>
-
-## 📖 Education
-
-- *2023.01 - present*, **Ph.D. in Computer Science**, Old Dominion University, Norfolk, VA, USA  
-  - Research Focus: AI for Science in Physics, Large Language Models, and Symbolic Regression
-  
-- *2018.09 - 2021.12*, **Master of Science**, Harbin University of Science and Technology, Harbin, Heilongjiang, China
-  - Thesis: Research on Machine Learning Applications in Security
-  
-- *2013.09 - 2017.06*, **Bachelor of Science**, Harbin University of Science and Technology, Harbin, Heilongjiang, China
-  - Major: Computer Science and Technology
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-<span class='anchor' id='-work-experience'></span>
-
-## 💼 Work Experience
-
-- 🧑‍🔬 *2023.06 - 2025.08*, **Research Assistant**, T3-cider Project
-  - Led curriculum development and contributed to course design
-  - Responsible for code implementation and technical support
-  - Served as a teaching assistant (TA), assisting with workshops and supporting student learning
-
-- 💻 *2022.02 - 2022.12*, **Software Developer**, Artificial Intelligence and Digital Economy Laboratory (Shenzhen), Shenzhen, Guangdong, China
-  - Developed AI-powered applications and systems
-  - Collaborated with research teams on cutting-edge AI projects
-  
-- 🔬 *2021.01 - 2022.05*, **Research Assistant**, Southern University of Science and Technology, Shenzhen, Guangdong, China
-  - Conducted research on machine learning and AI applications
-  - Assisted in developing secure AI systems
-  
-- 🧑‍🏫 *2018.01 - 2018.09*, **Physics Teacher**, Xi'an Baimu Educational Technology Co., Ltd., Xi'an, Shaanxi, China
-  - Taught physics concepts to students
-  - Developed educational materials and curriculum
-
-<!-- ## 🔬 Research Interests
-
-- **AI Security**: Adversarial machine learning, robust deep learning, security of AI systems
-- **Privacy-Preserving AI**: Federated learning, differential privacy, secure multi-party computation
-- **Deep Learning**: Neural network architectures, optimization algorithms, interpretable AI
-- **Cybersecurity**: Network security, intrusion detection, threat modeling
-
-## 🛠 Technical Skills
-
-- **Programming Languages**: Python, Java, C++, JavaScript
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Keras
-- **Security Tools**: Wireshark, Metasploit, Burp Suite
-- **Development Tools**: Git, Docker, Linux, AWS
-- **Databases**: MySQL, MongoDB, Redis   -->
+Previously, my research focused on **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks, under the supervision of [Dr. Rui Ning](https://sites.wp.odu.edu/cscyber/).
