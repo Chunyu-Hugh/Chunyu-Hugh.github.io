@@ -29,4 +29,4 @@ I am currently pursuing my Ph.D. in Computer Science at [Old Dominion University
 
 My research interests lie at the intersection of **AI for Science**, particularly in **physics**, and the exploration of **Large Language Models (LLMs)** integrated with **symbolic regression**. Under the guidance of [Dr. Yaohang Li](https://www.cs.odu.edu/~yaohang/), I am dedicated to tackling the challenges and developing innovative solutions that leverage AI to advance scientific discovery and problem-solving in physics and beyond.
 
-Previously, my research focused on **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks, under the supervision of [Dr. Rui Ning](https://sites.wp.odu.edu/cscyber/).
+Previously, my research focused on **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks.
