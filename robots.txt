@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chunyu-hugh.github.io/sitemap.xml
+Sitemap: https://chunyuhu.com/sitemap.xml
