@@ -7,15 +7,15 @@ layout: default
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
+        <span class="name-chinese">春育 胡</span>
+        <button class="pronunciation-btn" onclick="playChinesePronunciation()" title="Play pronunciation">
+          <i class="fa-solid fa-circle-play"></i>
+        </button>
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
     <div class="name-pronunciation">
-      <button class="pronunciation-btn" onclick="playChinesePronunciation()" title="Play Chinese pronunciation">
-        <i class="fa-solid fa-volume-high"></i>
-        <span>春育 胡</span>
-      </button>
       <span class="pronunciation-phonetic">/chwən-yù hú/</span>
       <span class="pronunciation-approx">sounds like <strong>"chwən-yoo hoo"</strong></span>
     </div>
