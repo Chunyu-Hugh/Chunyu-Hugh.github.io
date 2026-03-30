@@ -11,6 +11,14 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
+    <div class="name-pronunciation">
+      <button class="pronunciation-btn" onclick="playChinesePronunciation()" title="Play Chinese pronunciation">
+        <i class="fa-solid fa-volume-high"></i>
+        <span>春育 胡</span>
+      </button>
+      <span class="pronunciation-phonetic">/chwən-yù hú/</span>
+      <span class="pronunciation-approx">sounds like <strong>"chwən-yoo hoo"</strong></span>
+    </div>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
@@ -77,4 +85,23 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
+
+  <script>
+    function playChinesePronunciation() {
+      var btn = document.querySelector('.pronunciation-btn');
+      btn.classList.add('playing');
+
+      var utterance = new SpeechSynthesisUtterance('春育 胡');
+      utterance.lang = 'zh-CN';
+      utterance.rate = 0.8;
+      utterance.onend = function () {
+        btn.classList.remove('playing');
+      };
+      utterance.onerror = function () {
+        btn.classList.remove('playing');
+      };
+      speechSynthesis.cancel();
+      speechSynthesis.speak(utterance);
+    }
+  </script>
 </div>
