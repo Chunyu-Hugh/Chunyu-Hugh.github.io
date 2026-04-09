@@ -38,6 +38,9 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 24px;
 
   .card-img {
     width: 100%;
@@ -46,10 +49,12 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    font-family: "Playfair Display", Georgia, serif;
+    font-weight: 500;
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 1.5rem;
   }
 }
 
@@ -61,7 +66,9 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Inter", -apple-system, system-ui, sans-serif;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
 
     p {
       display: inline-block;
