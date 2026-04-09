@@ -506,7 +506,7 @@ figure.cover {
 
   figcaption.abandoned {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #ee5f5b;
   }
@@ -514,28 +514,28 @@ figure.cover {
   figcaption.finished,
   figcaption.watched {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #62c462;
   }
 
   figcaption.interested {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #7691db;
   }
 
   figcaption.paused {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #bdac7e;
   }
 
   figcaption.queued {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #9e76b5;
   }
@@ -543,7 +543,7 @@ figure.cover {
   figcaption.reading,
   figcaption.watching {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #f89406;
   }
@@ -551,39 +551,39 @@ figure.cover {
   figcaption.reread,
   figcaption.rewatch {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #a6517d;
   }
 
   figcaption.uncategorized {
     font-family: monospace;
-    color: #23212d;
+    color: #141413;
     text-transform: uppercase;
     background-color: #b0abb3;
   }
 
   /* mouse over link */
   a.cover-link:hover {
-    color: #23212d !important;
+    color: #141413 !important;
   }
 }
 
 // Calendar
 
 .calendar-toggle-btn {
-  background-color: #007acc;
-  color: white;
+  background-color: var(--global-theme-color);
+  color: var(--global-hover-text-color);
   padding: 0.5em 1em;
   border: none;
-  border-radius: 6px;
+  border-radius: 8px;
   font-size: 1em;
   cursor: pointer;
   transition: background-color 0.3s;
 }
 
 .calendar-toggle-btn:hover {
-  background-color: #005fa3;
+  background-color: var(--global-hover-color);
 }
 
 .google-calendar-embed {
