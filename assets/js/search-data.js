@@ -51,21 +51,16 @@ ninja.data = [{
           description: "An LLM multi-agent system and MCP server that run multi-step global QCD analyses on HPC clusters end to end (DOE Genesis Mission).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_femtomind/";
-            },},{id: "projects-symbolic-regression-for-ai-driven-scientific-discovery",
-          title: 'Symbolic Regression for AI-Driven Scientific Discovery',
-          description: "Building AI-for-Science workflows using symbolic regression to support interpretable scientific discovery and experiment analysis.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_symbolic_regression/";
             },},{id: "projects-t3-ciders-cyberinfrastructure-curriculum-development",
           title: 'T3-CIDERS Cyberinfrastructure Curriculum Development',
           description: "Developing instructional modules integrating cyberinfrastructure and data-enabled research in cybersecurity.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_t3ciders/";
+              window.location.href = "/projects/2_t3ciders/";
             },},{id: "projects-efficiency-and-effectiveness-exploration-of-bitnet",
           title: 'Efficiency and Effectiveness Exploration of BitNet',
           description: "Benchmarking BitNet, a compact large language model, across heterogeneous hardware platforms.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_bitnet/";
+              window.location.href = "/projects/3_bitnet/";
             },},{
         id: 'social-email',
         title: 'email',
