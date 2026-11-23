@@ -27,7 +27,7 @@ latest_posts:
 
 I am a Ph.D. student in Computer Science at [Old Dominion University](https://www.odu.edu/), working on **AI for Science** under the guidance of [Dr. Yaohang Li](https://www.cs.odu.edu/~yaohang/).
 
-My research aims to accelerate scientific discovery with machine learning, with a focus on **physics**. I work at the intersection of **large language models (LLMs)** and **symbolic regression**, turning experimental and simulation data into interpretable scientific models. I am also beginning to explore **genetic programming** — the classic evolutionary approach to symbolic regression that evolves interpretable models directly from data — a direction still in its early, exploratory stage.
+My research aims to accelerate scientific discovery with **LLMs** and **agentic systems**, with a focus on **physics**.
 
 Previously, my research focused on the **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks.
 
