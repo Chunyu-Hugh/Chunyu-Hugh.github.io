@@ -3,7 +3,7 @@ layout: page
 title: Efficiency and Effectiveness Exploration of BitNet
 description: Benchmarking BitNet, a compact large language model, across heterogeneous hardware platforms.
 img:
-importance: 4
+importance: 3
 category: research
 ---
 

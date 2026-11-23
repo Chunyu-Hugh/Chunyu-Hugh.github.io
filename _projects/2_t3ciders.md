@@ -3,7 +3,7 @@ layout: page
 title: T3-CIDERS Cyberinfrastructure Curriculum Development
 description: Developing instructional modules integrating cyberinfrastructure and data-enabled research in cybersecurity.
 img:
-importance: 3
+importance: 2
 category: service
 ---
 
