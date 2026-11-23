@@ -46,21 +46,26 @@ ninja.data = [{
           section: "News",},{id: "news-abstract-accepted-at-ai4eic-2026-generalized-parton-distributions-from-physics-constrained-symbolic-regression-ai-ml-for-data-analysis-and-theory-track",
           title: 'Abstract accepted at AI4EIC 2026: “Generalized Parton Distributions from Physics-Constrained Symbolic Regression” (AI/ML...',
           description: "",
-          section: "News",},{id: "projects-symbolic-regression-for-ai-driven-scientific-discovery",
+          section: "News",},{id: "projects-femtomind-agentic-ai-for-global-qcd-analysis",
+          title: 'FemtoMind — Agentic AI for Global QCD Analysis',
+          description: "An LLM multi-agent system and MCP server that run multi-step global QCD analyses on HPC clusters end to end (DOE Genesis Mission).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_femtomind/";
+            },},{id: "projects-symbolic-regression-for-ai-driven-scientific-discovery",
           title: 'Symbolic Regression for AI-Driven Scientific Discovery',
           description: "Building AI-for-Science workflows using symbolic regression to support interpretable scientific discovery and experiment analysis.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_symbolic_regression/";
+              window.location.href = "/projects/2_symbolic_regression/";
             },},{id: "projects-t3-ciders-cyberinfrastructure-curriculum-development",
           title: 'T3-CIDERS Cyberinfrastructure Curriculum Development',
           description: "Developing instructional modules integrating cyberinfrastructure and data-enabled research in cybersecurity.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_t3ciders/";
-            },},{id: "projects-power-data-collection-systems-engineering",
-          title: 'Power Data Collection Systems Engineering',
-          description: "Linux- and Qt-based electric energy collection clients with multi-protocol communication and automated reporting.",
+              window.location.href = "/projects/3_t3ciders/";
+            },},{id: "projects-efficiency-and-effectiveness-exploration-of-bitnet",
+          title: 'Efficiency and Effectiveness Exploration of BitNet',
+          description: "Benchmarking BitNet, a compact large language model, across heterogeneous hardware platforms.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_power_data/";
+              window.location.href = "/projects/4_bitnet/";
             },},{
         id: 'social-email',
         title: 'email',
