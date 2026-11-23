@@ -51,21 +51,16 @@ ninja.data = [{
           description: "Building AI-for-Science workflows using symbolic regression to support interpretable scientific discovery and experiment analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_symbolic_regression/";
-            },},{id: "projects-security-and-robustness-of-efficient-ai-models",
-          title: 'Security and Robustness of Efficient AI Models',
-          description: "Studying bit-flip and backdoor attacks on efficient neural networks and long-tail dataset robustness.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_adversarial_ml/";
             },},{id: "projects-t3-ciders-cyberinfrastructure-curriculum-development",
           title: 'T3-CIDERS Cyberinfrastructure Curriculum Development',
           description: "Developing instructional modules integrating cyberinfrastructure and data-enabled research in cybersecurity.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_t3ciders/";
+              window.location.href = "/projects/2_t3ciders/";
             },},{id: "projects-power-data-collection-systems-engineering",
           title: 'Power Data Collection Systems Engineering',
           description: "Linux- and Qt-based electric energy collection clients with multi-protocol communication and automated reporting.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_power_data/";
+              window.location.href = "/projects/3_power_data/";
             },},{
         id: 'social-email',
         title: 'email',
