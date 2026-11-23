@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Ph.D. Student in Computer Science at <a href='https://www.odu.edu/'>Old Dominion University</a>
+  Ph.D. Student in Computer Science · <b>AI for Science</b> · <a href='https://www.odu.edu/'>Old Dominion University</a>
 
 profile:
   align: right
@@ -25,10 +25,12 @@ latest_posts:
   enabled: false
 ---
 
-I am currently pursuing my Ph.D. in Computer Science at [Old Dominion University](https://www.odu.edu/). My academic journey began at [Harbin University of Science and Technology](https://en.hrbust.edu.cn/), where I earned my Bachelor's degree in 2017, followed by a Master's degree in 2021.
+I am a Ph.D. student in Computer Science at [Old Dominion University](https://www.odu.edu/), working on **AI for Science** under the guidance of [Dr. Yaohang Li](https://www.cs.odu.edu/~yaohang/).
 
-My research interests lie at the intersection of **AI for Science**, particularly in **physics**, and the exploration of **Large Language Models (LLMs)** integrated with **symbolic regression**. Under the guidance of [Dr. Yaohang Li](https://www.cs.odu.edu/~yaohang/), I am dedicated to tackling the challenges and developing innovative solutions that leverage AI to advance scientific discovery and problem-solving in physics and beyond.
+My research aims to accelerate scientific discovery with machine learning, with a focus on **physics**. I work at the intersection of **large language models (LLMs)** and **symbolic regression**, turning experimental and simulation data into interpretable scientific models. I am also beginning to explore **genetic systems for science** — using evolutionary and genetic methods to evolve interpretable models directly from data — a direction still in its early, exploratory stage.
 
-Previously, my research focused on **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks.
+Previously, my research focused on the **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks.
+
+I received my B.Sc. (2017) and M.Eng. (2021) in Electrical Engineering from [Harbin University of Science and Technology](https://en.hrbust.edu.cn/) before joining ODU for my Ph.D.
 
 Outside of research, I am a Broadway musical enthusiast — I enjoy catching shows both on campus and in New York City. I also love fitness training and outdoor activities.
