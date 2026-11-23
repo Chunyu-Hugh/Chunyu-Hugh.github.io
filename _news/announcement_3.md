@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-01-01 00:00:00-0400
+date: 2026-03-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Serving as a **Reviewer** for the International Conference on Networking and Computing (ICNC) 2026.
+Served as a **Computer Science Judge** at the Tidewater Science and Engineering Fair (TSEF) 2026.

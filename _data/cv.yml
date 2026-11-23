@@ -94,9 +94,9 @@ cv:
         position: Reviewer
         location: International
         start_date: 2026-01
-        end_date: 2026-12
+        end_date: 2027-12
         highlights:
-          - "Reviewed submitted manuscripts in networking and cybersecurity, with feedback on technical soundness, novelty, and clarity."
+          - "Reviewer for ICNC 2026 and ICNC 2027; evaluated submissions on technical soundness, novelty, and clarity."
 
       - company: Tidewater Science and Engineering Fair (TSEF)
         position: Computer Science Judge
@@ -105,6 +105,14 @@ cv:
         end_date: 2026-03
         highlights:
           - "Evaluated middle and high school computer science projects and provided structured feedback on rigor, originality, and presentation."
+
+      - company: Old Dominion University
+        position: "Guest Lecturer, CYSE 635 (AI Security & Privacy)"
+        location: Norfolk, VA, USA
+        start_date: 2025-09
+        end_date: 2025-10
+        highlights:
+          - "Taught core cyber-defense concepts and delivered SEED Labs hands-on sessions with real-world malware and exploits."
 
       - company: Old Dominion University
         position: "Curriculum Co-Designer (CYSE 635 / CS 695)"
@@ -138,14 +146,6 @@ cv:
         highlights:
           - "Supported reverse engineering, API hooking, DLL/process injection, and network analysis labs."
           - "Mentored an AI-assisted malware analysis capstone project."
-
-      - company: Old Dominion University
-        position: "Guest Lecturer, CYSE 635 (AI Security & Privacy)"
-        location: Norfolk, VA, USA
-        start_date: 2025-09
-        end_date: 2025-10
-        highlights:
-          - "Taught core cyber-defense concepts and delivered SEED Labs hands-on sessions with real-world malware and exploits."
 
     Outreach and Volunteer Service:
       - company: "mpark (ODU Humanities Makerspace), Old Dominion University"
