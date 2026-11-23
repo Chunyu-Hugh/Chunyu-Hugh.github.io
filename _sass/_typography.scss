@@ -1,13 +1,13 @@
 /*******************************************************************************
  * Typography styles: Headings, text, links, tables, blockquotes
  *
- * Claude-inspired: Serif headings (Playfair Display) + Sans body (Inter)
+ * Modern tech minimal: Sora display + Instrument Sans body
  ******************************************************************************/
 
 @use "variables" as v;
 
 body {
-  font-family: "Inter", -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: "Instrument Sans", -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 400;
   line-height: 1.60;
 }
@@ -28,7 +28,7 @@ h4,
 h5,
 h6 {
   color: var(--global-text-color);
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: "Sora", -apple-system, system-ui, sans-serif;
   font-weight: 500;
   line-height: 1.20;
 }
@@ -77,7 +77,7 @@ blockquote {
   padding: 1.25em 1.5em;
   font-size: 1.1rem;
   border-radius: 0 8px 8px 0;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Sora", sans-serif;
   font-style: italic;
   font-weight: 400;
 
