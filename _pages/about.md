@@ -29,8 +29,6 @@ I am a Ph.D. student in Computer Science at [Old Dominion University](https://ww
 
 My research aims to accelerate scientific discovery with **LLMs** and **agentic systems**, with a focus on **physics**.
 
-Previously, my research focused on the **security and robustness of efficient AI models**, including adversarial attacks, backdoor attacks, and weight-perturbation attacks on neural networks.
-
 I received my B.Sc. (2017) and M.Eng. (2021) in Electrical Engineering from [Harbin University of Science and Technology](https://en.hrbust.edu.cn/) before joining ODU for my Ph.D.
 
 Outside of research, I am a Broadway musical enthusiast — I enjoy catching shows both on campus and in New York City. I also love fitness training and outdoor activities.

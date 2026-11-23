@@ -7,8 +7,7 @@ cv:
   image: ""
   summary: >
     PhD student in Computer Science at Old Dominion University. Currently researching AI for Science with a focus on
-    symbolic regression for scientific discovery under the guidance of Dr. Yaohang Li. Previously investigated
-    adversarial robustness and attack mechanisms in efficient AI models and LLM-related systems. Experienced in
+    symbolic regression for scientific discovery under the guidance of Dr. Yaohang Li. Experienced in
     curriculum development, teaching, and academic service across AI, cybersecurity, and cyberinfrastructure domains.
 
   social_networks:
@@ -54,16 +53,6 @@ cv:
           - "Conduct research on AI for Science, with a focus on symbolic regression for scientific discovery."
           - "Build AI-for-Science workflows to support interpretable scientific discovery and experiment analysis."
           - "Support model development, experiment design, and result analysis for data-driven science problems."
-
-      - company: Old Dominion University
-        position: "Research Assistant (Advisor: Dr. Rui Ning)"
-        location: Norfolk, VA, USA
-        start_date: 2023-01
-        end_date: 2025-09
-        highlights:
-          - "Conducted research on adversarial robustness and attack mechanisms in efficient AI models and LLM-related systems; collaborated with faculty and students."
-          - "Studied bit-flip and backdoor attacks on efficient neural networks; observed ASR saturation at 60-70% on imbalanced long-tail datasets."
-          - "Developed instructional materials for AI and cybersecurity courses; facilitated lab sessions and provided technical guidance."
 
       - company: Artificial Intelligence and Digital Economy Laboratory
         position: Software Developer
