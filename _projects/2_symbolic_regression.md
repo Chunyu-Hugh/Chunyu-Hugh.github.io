@@ -3,7 +3,7 @@ layout: page
 title: Symbolic Regression for AI-Driven Scientific Discovery
 description: Building AI-for-Science workflows using symbolic regression to support interpretable scientific discovery and experiment analysis.
 img:
-importance: 1
+importance: 2
 category: research
 ---
 
